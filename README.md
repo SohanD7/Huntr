@@ -1,12 +1,11 @@
-# Huntr
+# Sample Snack app
 
-As college students on the verge of entering the professional world, we experienced the shortcomings of conventional job search methods firsthand. These methods often felt impersonal and ineffective at aligning our skills and aspirations with the right job opportunities. Driven by these challenges, we created Huntr—a platform designed to revolutionize the job search experience using advanced algorithms for a personalized and efficient approach.
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-Huntr is built on a framework that optimizes the job hunting process, making it as intuitive and engaging as using a dating app. Here’s how our platform stands out:
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-Techniques Used:
--Firebase: Utilized for real-time database management, ensuring that user data is securely managed and seamlessly integrated throughout the platform.
--Python: Powers our backend processes with libraries such as Pandas and Scikit-learn, crucial for parsing job listings and generating personalized job recommendations.
--React: Drives our frontend development, providing a dynamic and responsive user interface.
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
