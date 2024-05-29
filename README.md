@@ -8,7 +8,7 @@ Throughout the development of Huntr, we gained invaluable insights into the inte
 
 How We Built Our Project
 
-Huntr is built on a robust framework that combines modern web and data technologies:
+Huntr is built on a framework that combines modern web and data technologies:
 
 User Registration and Management: Utilizing Firebase Authentication, we ensure that each user’s data is securely managed and seamlessly integrated throughout their experience.
 
